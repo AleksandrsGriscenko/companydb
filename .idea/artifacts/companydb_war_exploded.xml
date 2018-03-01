@@ -7,7 +7,7 @@
           <element id="module-output" name="companydb" />
         </element>
         <element id="directory" name="lib">
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/apache/derby/derbyClient/10.14.1.0/derbyClient-10.14.1.0.jar" output-file-name="derbyclient-10.14.1.0.jar" />
+          <element id="library" level="project" name="Maven: org.apache.derby:derbyclient:10.14.1.0" />
         </element>
       </element>
       <element id="directory" name="META-INF">
